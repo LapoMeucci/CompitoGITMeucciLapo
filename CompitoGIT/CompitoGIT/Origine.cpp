@@ -7,7 +7,7 @@ int main()
 
 	for (i = 0; i < 10; i++)
 	{
-		cout << i << endl;
+		cout <<"La variabile e': "<< i << endl;
 	}
 
 	system("pause");
